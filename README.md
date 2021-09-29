@@ -6,14 +6,14 @@ It's very user-friendly for users to implement any operation mentioned above. On
 It is written in C# and uses Windows Forms for its graphical user interface (GUI).
 
 # Software Environment
-| IDE                         | Visual Studio 2015       |
+| IDE                         | Visual Studio 2019       |
 | :-------------------------- | :----------------------- |
 | .NET Core                   | .NET Core 3.1            |
 | Programming Language        | C#                       |
 
 # GUI Demo:
 
-![alt text](https://github.com/JeffWang0325/LabelImgTool/blob/master/README%20Image/1.%20%E5%B7%A5%E5%96%AE%E8%A8%AD%E5%AE%9A%20(Recipe%20Setting).jpg "Logo Title Text 1")
+![alt text](https://github.com/JeffWang0325/Microsoft-Azure-Cognitive-Services/blob/master/GUI%20Image/1.png "Logo Title Text 1")
 
 ---
 # Contact Information:
