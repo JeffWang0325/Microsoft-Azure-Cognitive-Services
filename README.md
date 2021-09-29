@@ -13,7 +13,12 @@ It is written in C# and uses Windows Forms for its graphical user interface (GUI
 
 # GUI Demo:
 
-![alt text](https://github.com/JeffWang0325/Microsoft-Azure-Cognitive-Services/blob/master/GUI%20Image/1.png "Logo Title Text 1")
+Please click the following figures or links to watch GUI demo videos:  
+[Microsoft Azure Cognitive Services using C#-中文版](https://youtu.be/Z_srnaLAVeg)  
+[![Everything Is AWESOME](http://img.youtube.com/vi/Z_srnaLAVeg/sddefault.jpg)](https://youtu.be/Z_srnaLAVeg)    
+
+## ※Outline:   
+
 
 ---
 # Contact Information:
