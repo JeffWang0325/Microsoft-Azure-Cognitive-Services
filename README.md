@@ -67,7 +67,7 @@ Please click the following figures or links to watch GUI demo videos:
 
 **10. Vision - Form Recognizer**
 ![](https://github.com/JeffWang0325/Microsoft-Azure-Cognitive-Services/blob/master/README%20Image/10.jpg)
-●Recognize the receipt informaiton in the image.
+●Recognize the receipt information in the image.
 
 **11. Speech - Text To Speech**
 ![](https://github.com/JeffWang0325/Microsoft-Azure-Cognitive-Services/blob/master/README%20Image/11.jpg)
